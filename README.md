@@ -2,21 +2,37 @@
 Brief presentation about myself and some of my projects
 
 ## Contents by slide
+
 1 - Cover
+
 2 - About me (title, professional background, passion)
+
 3 - Professional Mission
+
 4 - Educational and Professional Timeline
+
 5 - Profile (main soft skills and hard skills)
+
 ### Business Case: Vending Machine Capacity Model
+
 6 - Context: business questions and steps of the model
+
 7 - Process: Demo of Python Script
+
 8 - Visualization: Demo of Qlik Dashboard
+
 9 - Results: main insights
+
 ### Business Case: New Metric for Channel Adoption
+
 10 - Context: problem statement and project steps
+
 11 - Visualization: Power BI Dashboard
+
 ### Business Case: Transition from Excel to Qlik Sense
+
 12 - Problem statement and solutions applied
+
 13 - Visualization: Power BI and Qlik Demos
 
 ## Tips for other job searchers
